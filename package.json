@@ -2,6 +2,7 @@
   "name": "catalogo-produtos",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://gustavohsdr.github.io/CatalogoProdutos",
   "type": "module",
   "scripts": {
     "dev": "vite",
