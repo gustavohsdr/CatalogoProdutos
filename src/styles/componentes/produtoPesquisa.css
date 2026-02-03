@@ -1,0 +1,18 @@
+.produto-pesquisa {
+  padding: 10px 10px;
+  width: 100%;
+  border-radius: 8px;
+}
+
+.produto-categoria-filtro {
+  width: 100%;
+  padding: 8px 10px;
+  border-radius: 8px;
+}
+
+.filtros {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 40px;
+  padding-bottom: 50px;
+}

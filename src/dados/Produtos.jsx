@@ -1,0 +1,51 @@
+export const produtos = [
+  {
+    id: 1,
+    nome: "Notebook Pro",
+    descricao: "Notebook potente para trabalho e jogos",
+    preco: 1499.99,
+    categoria: "Eletrônicos",
+  },
+  {
+    id: 2,
+    nome: "Camiseta Básica",
+    descricao: "Camiseta confortável de algodão",
+    preco: 29.99,
+    categoria: "Roupas",
+  },
+  {
+    id: 3,
+    nome: "Notebook Pro",
+    descricao: "Notebook potente para trabalho e jogos",
+    preco: 1499.99,
+    categoria: "Eletrônicos",
+  },
+  {
+    id: 4,
+    nome: "Camiseta Básica",
+    descricao: "Camiseta confortável de algodão",
+    preco: 29.99,
+    categoria: "Roupas",
+  },
+  {
+    id: 5,
+    nome: "Notebook Pro",
+    descricao: "Notebook potente para trabalho e jogos",
+    preco: 1499.99,
+    categoria: "Eletrônicos",
+  },
+  {
+    id: 6,
+    nome: "Camiseta Básica",
+    descricao: "Camiseta confortável de algodão",
+    preco: 29.99,
+    categoria: "Roupas",
+  },
+  {
+    id: 7,
+    nome: "Sapato Social",
+    descricao: "Sapato confortável de couro",
+    preco: 979.99,
+    categoria: "Sapatos",
+  },
+];

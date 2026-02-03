@@ -1,0 +1,37 @@
+.produto-card {
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  padding: 16px;
+  background-color: #fff;
+}
+
+.produto-cabecalho {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 10px;
+}
+
+.produto-nome {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.produto-categoria {
+  font-size: 12px;
+  background-color: rgb(243, 243, 243);
+  padding: 4px 8px;
+  border-radius: 1rem;
+}
+
+.produto-descricao {
+  font-size: 12px;
+  color: gray;
+}
+
+.produto-preco {
+  padding-top: 20px;
+  font-weight: 600;
+  font-size: 1.125rem;
+}
